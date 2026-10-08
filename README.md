@@ -15,9 +15,7 @@ Apple Silicon · 230 MB · 16 languages
 
 </div>
 
-![Erith, an offline translator for Mac: translating a text, its five appearances and the quick-translation card](https://raw.githubusercontent.com/KazKozDev/Erith/main/assets/erith-offline-translator.gif)
-
-**[▶ The film with sound: 49 seconds, MP4, 7 MB](https://github.com/KazKozDev/Erith/raw/main/assets/erith-offline-translator.mp4)**
+https://github.com/user-attachments/assets/9a816f0a-1411-48fc-89e5-5f5604df70be
 
 <sub>Music in the film: 'Life in Silico' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</sub>
 
