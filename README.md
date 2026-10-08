@@ -17,6 +17,12 @@ Runs on your Mac · No account · No internet after setup
 3. Erith offers to download a model: keep TranslateGemma 4B (2.2 GB) and press Download and start. This is the only step that needs the internet.
 4. Type or paste text and press Translate (⌘↵).
 
+Instead of step 2 you can lift the quarantine in Terminal, once:
+
+```bash
+xattr -dr com.apple.quarantine /Applications/Erith.app
+```
+
 To check that the download is intact, compare it with the `.sha256` file next to it:
 
 ```bash
