@@ -17,6 +17,10 @@ Apple Silicon · 230 MB · 16 languages
 
 ![Erith, an offline translator for Mac: translating a text, its five appearances and the quick-translation card](https://raw.githubusercontent.com/KazKozDev/Erith/main/assets/erith-offline-translator.gif)
 
+**[▶ Watch the film with sound (49 seconds)](https://github.com/KazKozDev/Erith/blob/main/assets/erith-offline-translator.mp4)**
+
+<sub>Music in the film: 'Life in Silico' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</sub>
+
 ## A private translator: your text is never uploaded
 
 **What you translate is nobody else's business.** A contract. A medical letter. A message you would not show a stranger. A cloud translator receives every word of it, and you cannot take it back. Erith has no server to send anything to: it runs Google's TranslateGemma on your own Mac, so the translation stays on your device.
