@@ -15,7 +15,7 @@ Apple Silicon · 230 MB · 16 languages
 
 </div>
 
-https://github.com/user-attachments/assets/9a816f0a-1411-48fc-89e5-5f5604df70be
+https://github.com/user-attachments/assets/9b05fce7-82bb-4f86-9468-1f543020f9ae
 
 <sub>Music in the film: 'Life in Silico' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</sub>
 
