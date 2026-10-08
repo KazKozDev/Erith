@@ -15,7 +15,7 @@ Apple Silicon · 230 MB · 16 languages
 
 </div>
 
-![Erith, an offline translator for Mac: translating a text, its five appearances and the quick-translation card](https://raw.githubusercontent.com/KazKozDev/Erith/main/assets/demo.gif)
+![Erith, an offline translator for Mac: translating a text, its five appearances and the quick-translation card](https://raw.githubusercontent.com/KazKozDev/Erith/main/assets/erith-offline-translator.gif)
 
 ## A private translator: your text is never uploaded
 
