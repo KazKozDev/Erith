@@ -11,11 +11,17 @@ The model runs inside the app: no cloud, no account, no internet needed.
 
 [![Download for Mac](https://img.shields.io/badge/Download_for_Mac-free_during_early_access-f2551c?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/KazKozDev/Erith/releases/latest)
 
-Apple Silicon · 230 MB · 16 languages
 
 </div>
 
+
+<br>
+
 ![Translating three paragraphs from English to German in Erith](https://raw.githubusercontent.com/KazKozDev/Erith/main/assets/demo.gif)
+
+Apple Silicon · 230 MB · 16 languages
+
+<br>
 
 ## What you translate is nobody else's business
 
