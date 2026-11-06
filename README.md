@@ -9,7 +9,7 @@
 An on-device translator for text, PDF and Word files that works without internet.<br>
 The model runs inside the app: no cloud, no account, no upload.
 
-[![Download the offline translator for Mac](https://img.shields.io/badge/Download_for_Mac-free_during_early_access-f2551c?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/KazKozDev/Erith/releases/latest)
+[![Download the offline translator for Mac](https://img.shields.io/badge/Download_for_Mac-free_for_personal_use-f2551c?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/KazKozDev/Erith/releases/latest)
 
 Apple Silicon · 230 MB · 16 languages
 
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/9b05fce7-82bb-4f86-9468-1f543020f9ae
 
 **What you translate is nobody else's business.** A contract. A medical letter. A message you would not show a stranger. A cloud translator receives every word of it, and you cannot take it back. Erith has no server to send anything to: it runs Google's TranslateGemma on your own Mac, so the translation stays on your device.
 
-That also makes it a translator that works without internet: with the Wi-Fi off, on a plane or behind a company firewall, with no account to create, no subscription to cancel and no character limit to hit.
+That also makes it a translator that works without internet: with the Wi-Fi off, on a plane, with no account to create, no subscription to cancel and no character limit to hit.
 
 ## Translate text, PDF and Word documents offline
 
@@ -49,9 +49,8 @@ Both are good translators, and both do the work on their own servers. Erith is f
 | Where your text is translated | On your Mac | On Google's servers | On DeepL's servers |
 | Works without internet on a Mac | Yes | No | No |
 
-## A translator for work, study and travel without Wi-Fi
+## A translator for study and travel without Wi-Fi
 
-- **Work.** Contracts, reports and e-mail that must not leave the company: translate a whole document and keep its layout, or a line in Mail with one shortcut.
 - **Study.** Articles from a link, PDFs of papers, and a Literal style that stays close to the original wording when you are learning a language.
 - **Travel.** A plane, a train, a hotel with no Wi-Fi: once the model is on your Mac, the translator needs no connection.
 
@@ -81,7 +80,7 @@ System shortcuts, an interface in 13 languages and five appearances: Pink, Light
 
 **Is my text uploaded anywhere?** No. The translation runs on your device. Erith goes online for three things only: to download a model when you ask for one, to fetch a page when you paste its link, and once a day to ask GitHub for the latest version number, which you can turn off. Your text is never part of any of them.
 
-**Is it free?** Yes, during early access. Later versions may be paid; a copy you downloaded stays yours to use.
+**Is it free?** Yes, for personal, non-commercial use. Any commercial use, including use at work or for a business, needs a separate written licence: see [LICENSE](LICENSE).
 
 **Which Macs?** Any Mac with Apple Silicon; Intel is untested. Used daily on macOS 27, and the build passes its self-test on macOS 14. You need about 550 MB for the app, 2.2 GB for the model and about 3 GB of free memory. The Quality model is 6.7 GB and wants 16 GB of memory.
 
@@ -93,7 +92,7 @@ System shortcuts, an interface in 13 languages and five appearances: Pink, Light
 
 **What does not work yet?** PDF layout is kept for languages in Latin, Cyrillic and Greek scripts; for Chinese, Japanese, Korean, Arabic and Hindi a PDF is saved as plain text, and scanned PDFs are not supported. TranslateGemma often ignores glossary terms. The neural voice reads 10 of the 16 languages; the rest are read by a system voice.
 
-**Is it open source?** No. Erith is closed-source freeware. The libraries and models it uses are listed in [NOTICE](NOTICE).
+**Is it open source?** No. Erith is closed-source and free for personal use only. The libraries and models it uses are listed in [NOTICE](NOTICE).
 
 **How do I check the download?** Compare `shasum -a 256 Erith-*-arm64.zip` with the `.sha256` file next to it.
 
@@ -105,7 +104,7 @@ System shortcuts, an interface in 13 languages and five appearances: Pink, Light
 
 ### Your words. Your Mac. Nobody else.
 
-[![Download the offline translator for Mac](https://img.shields.io/badge/Download_for_Mac-free_during_early_access-f2551c?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/KazKozDev/Erith/releases/latest)
+[![Download the offline translator for Mac](https://img.shields.io/badge/Download_for_Mac-free_for_personal_use-f2551c?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/KazKozDev/Erith/releases/latest)
 
 [Issues](https://github.com/KazKozDev/Erith/issues) · [License](LICENSE) · [Third-party notices](NOTICE) · [Changelog](CHANGELOG.md)
 

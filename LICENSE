@@ -1,38 +1,47 @@
-Erith — Free Use Licence (early access)
+Erith — Personal Use Licence
 
 Copyright (c) 2025-2026 KazKozDev (Artem Kazakov Kozlov). All rights reserved.
 
 This licence covers the Erith application as published by the copyright holder
 ("the App"). By installing or using the App you accept it.
 
-1. Use. You may install and use the App free of charge, on any Mac you own or
-   control, for any purpose, including at work.
+1. Personal use only. You may install and use the App free of charge, on a Mac
+   you own or control, for your own personal, non-commercial purposes.
 
-2. What is not allowed. You may not sell, rent, lease or sublicense the App, offer
-   it for download from any place other than a link to its official page, or
-   present a modified copy as Erith. You may not modify, decompile or reverse
-   engineer the App, except where the law gives you that right regardless of this
-   licence, and except as section 3 provides.
+2. No commercial use. You may not use the App for any commercial purpose without
+   a separate written licence from the copyright holder. Commercial use includes,
+   among other things, use at or for work, for a business, an employer, a client
+   or any organisation, use in providing paid services, and any use whose purpose
+   is to earn money or other commercial advantage.
 
-3. Third-party components. The App contains software of other authors under their
+3. What else is not allowed. You may not sell, rent, lease, sublicense or
+   distribute the App, offer it for download from any place other than a link to
+   its official page, or present a modified copy as Erith. You may not modify,
+   decompile or reverse engineer the App, except where the law gives you that
+   right regardless of this licence, and except as section 4 provides.
+
+4. Third-party components. The App contains software of other authors under their
    own licences, listed in the NOTICE file. Nothing here limits the rights those
-   licences give you. In particular, you may replace the libraries used under the
-   GNU LGPL (Qt for Python and the others named in NOTICE) with compatible builds
-   of your own and reverse engineer the App as far as debugging such a change
-   requires.
+   licences give you in those components. In particular, you may replace the
+   libraries used under the GNU LGPL (Qt for Python and the others named in
+   NOTICE) with compatible builds of your own and reverse engineer the App as far
+   as debugging such a change requires.
 
-4. Models and voices. Translation models and voices are not part of the App. The
+5. Models and voices. Translation models and voices are not part of the App. The
    App downloads them at your request, and you use them under the terms of their
    authors (see NOTICE).
 
-5. Name and icon. "Erith" and the robin icon identify the copyright holder's
+6. Name and icon. "Erith" and the robin icon identify the copyright holder's
    product. This licence gives no right to use them for anything else.
 
-6. Later versions. This is an early-access release. Later versions may be offered
-   under other terms, including for a fee. This licence keeps applying to every
-   copy you received under it.
+7. Changes and ending. The copyright holder may offer later versions under other
+   terms. This licence ends automatically if you break it; you must then stop
+   using the App and delete your copies.
 
-7. No warranty. The App is provided "as is", without warranty of any kind. A
+8. No warranty. The App is provided "as is", without warranty of any kind. A
    translation can be wrong or incomplete: check it before relying on it where a
    mistake matters. To the extent the law allows, the copyright holder is not
    liable for any damage arising from the use of the App.
+
+For a commercial licence, contact the copyright holder through
+https://github.com/KazKozDev.
